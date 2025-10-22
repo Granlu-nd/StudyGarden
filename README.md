@@ -1,4 +1,4 @@
-# 🌱 Study Garden 🌱 
+# 🌱 Study Garden 🌱 Frontend Testing v1.0
 
 **Study Garden** is a gamified study-tracking web app where productive time earns you rewards to grow a virtual garden.  
 Every minute of focused study gives you resources (coins) to unlock plants, seeds, and decorations.  
